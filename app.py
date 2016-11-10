@@ -2,4 +2,4 @@
 print "hello,wolrd"
 print "Starting"
 print "Ending, Bye!"
-print "1"
+print "1 2 3 4"
